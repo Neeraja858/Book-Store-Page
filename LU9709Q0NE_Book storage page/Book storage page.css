@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bookstore-bg-container {
+    height: 100vh;
+    width: 50vw;
+    background-color: #1b1b1b;
+    text-align: center;
+    padding: 5px;
+}
+
+.bookstore-head {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree Serif;
+    padding: 10px;
+}
+
+.bookstore-card-container {
+    height: 30vh;
+    width: 45vw;
+    background-color: #e6f6ff;
+    margin-left: 30px;
+    border-radius: 10px;
+    font-family: Bree Serif;
+    margin: 5px;
+    text-align: left;
+
+}
+
+.wings-image {
+    height: 30vh;
+    width: 18vw;
+    margin-left: 10px;
+}
+
+.wings-card-head {
+    color: #183b56;
+    font-size: 12px;
+
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.wings-card-content {
+    color: #06070d;
+    font-size: 10px;
+    font-weight: normal;
+    padding: 2px;
+    margin-left: 12px;
+
+}
+
+.wings-button {
+    height: 4vh;
+    width: 12vw;
+    font-size: 8px;
+    margin-left: 20px;
+    text-align: center;
+
+}
+
+.wings-arun-text {
+    font-size: 10px;
+    font-weight: bold;
+    color: #183b56;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.books-head {
+    color: #ffffff;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.bhagat-img {
+    height: 18vh;
+    width: 12vw;
+    margin: 10px;
+
+}
+
+.bhagat-head {
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.bhagat-paragraph {
+    font-size: 10px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+
+.harry-img {
+    height: 18vh;
+    width: 12vw;
+    margin: 10px;
+}
+
+.harry-head {
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.harry-paragraph {
+    font-size: 10px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.abdul-bg-container {
+    height: 100vh;
+    width: 50vw;
+    background-color: #1b1b1b;
+    text-align: center;
+    font-family: Bree-Serif;
+    text-align: center;
+}
+
+.abdul-image-container {
+    height: 40vh;
+    width: 25vw;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.abdul-head {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.abdul-text {
+    color: #9aa5b1;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.abdul-paragraph {
+    color: #e4e7eb;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.back-button {
+    color: black;
+    margin-left: 80px;
+    padding: 2px;
+    border-radius: 5px;
+    font-size: 10px;
+    height: 5vh;
+    width: 10vw;
+}
+
+.buyNow-button {
+    height: 5vh;
+    width: 15vw;
+    border-radius: 5px;
+    font-size: 10px;
+    margin-left: 10px;
+}
